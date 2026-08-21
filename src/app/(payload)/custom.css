@@ -1,0 +1,17 @@
+/* Payload Admin custom styles (optional). */
+html[data-theme='dark'] {
+  --theme-bg: #0a0a0a;
+  --theme-elevation-50: #141418;
+  --theme-elevation-100: #1c1c22;
+  --theme-elevation-150: #232329;
+  --theme-elevation-200: #2a2a31;
+  --theme-elevation-250: #313139;
+  --theme-elevation-300: #383841;
+  --theme-elevation-350: #3f3f49;
+  --theme-elevation-400: #464651;
+  --theme-elevation-500: #555561;
+  --theme-elevation-600: #6c6c7a;
+  --theme-elevation-700: #8a8a99;
+  --theme-elevation-800: #b0b0bd;
+  --theme-elevation-900: #e2e2e9;
+}

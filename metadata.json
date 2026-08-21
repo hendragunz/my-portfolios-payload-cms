@@ -1,0 +1,6 @@
+{
+  "name": "Full-Stack Developer Portfolio & CMS",
+  "description": "Professional developer portfolio with interactive project showcases, technical skills matrix, career timeline, Payload-inspired blog engine with content management, dark mode, and contact channels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
